@@ -1,0 +1,1 @@
+To activate virtual environment, run .venv\scripts\activate
